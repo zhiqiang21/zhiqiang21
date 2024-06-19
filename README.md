@@ -7,10 +7,10 @@
 <table border="0">
         <tr>
             <td width="150px">个人简介：</td>
-            <td>Hi, 我是一名前端开发工程师！转眼间已经工作十年了。回顾这十年，有辉煌，有遗憾，还有对工作、人生的思考。</td>
+            <td>Hi, 我是一名前端开发工程师！</td>
         </tr>
         <tr>
             <td width="150px">Personal Profile：</td>
-            <td>Hi, I am a front-end development engineer!In the twinkling of an eye, I have been working for ten years. Looking back on these ten years, there are glories, regrets, and thoughts on work and life.</td>
+            <td>Hi, I am a front-end development engineer!</td>
         </tr>
 </table>
